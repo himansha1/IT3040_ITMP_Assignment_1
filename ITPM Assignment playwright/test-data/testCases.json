@@ -1,0 +1,169 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "api heta pansal yamu.",
+    "expected": "අපි හෙට පන්සල් යමු."
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "oyaa hari, mama ehenam heta koLaBA gihin ee kadeeta gihin balala eeka nothibboth anith kaden balannam.",
+    "expected": "ඔයා හරි, මම එහෙනම් හෙට කොළඹ ගිහින් ඒ කඩේට ගිහින් බලල ඒක නොතිබ්බොත් අනිත් කඩෙන් බලන්නම්."
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "apita veelaasana enna baeri veyi egodaha paalama gaqq vathurata gahan gihin.",
+    "expected": "අපිට වේලාසන එන්න බැරි වෙයි එගොඩහ පාලම ගං වතුරට ගහන් ගිහින්."
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "ehaata vathura galapu nisaa mee sathiye nam aapahu ehe yanna baeri veyi.",
+    "expected": "එහාට වතුර ගලපු නිසා මේ සතියෙ නම් ආපහු එහෙ යන්න බැරි වෙයි."
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "mee bus eka hariyatama heta udheeta evidha?",
+    "expected": "මේ bus එක හරියටම හෙට උදේට එවිද?"
+  },
+  {
+    "id": "Pos_Fun_0006",
+    "input": "eeyi ohoma naevathiyan kohedha yanne?",
+    "expected": "ඒයි ඔහොම නැවතියන් කොහෙද යන්නෙ?"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "apita heta campus enna vena ekak naee.",
+    "expected": "අපිට හෙට campus එන්න වෙන එකක් නෑ."
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "mee paarsal eka oyaata genihin dhenna puluvandha?",
+    "expected": "මේ පාර්සල් එක ඔයාට ගෙනිහින් දෙන්න පුලුවන්ද?"
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "input": "eeyi mehe varen ban.mona magulakdha othana idhan karanne ",
+    "expected": "ඒයි මෙහෙ වරෙන් බන්.මොන මගුලක්ද ඔතන ඉදන් කරන්නේ"
+  },
+    {
+    "id": "Pos_Fun_0010",
+    "input": "oyaage ID eka mata check karanna oona.",
+    "expected": "ඔයාගෙ ID එක මට check කරන්න ඕන."
+  },
+    {
+    "id": "Pos_Fun_0011",
+    "input": "mohothakata pasu apa thidhenaa veegayen kuliiriyen gaman karamin sitiyee anDhakaara viidhi harahaaya.aDhika lesa vidaapathva siti baenistar asunee mullaka vakutu vii sitiyee kisidhu unandhuvak naethi ayurini.anek athata hoomsgee dhaknata laebuNee avaDhaanayakin siti svaBhaavayaki.naasthuduvala iva radhavaagena godhura vetha kadaa paeniimata suudhaanam dhada balleku, hoomsgee penuma dhutu mata sihiviya.",
+    "expected": "මොහොතකට පසු අප තිදෙනා වේගයෙන් කුලීරියෙන් ගමන් කරමින් සිටියේ අන්ධකාර වීදි හරහාය.අධික ලෙස විඩාපත්ව සිටි බැනිස්ටර් අසුනේ මුල්ලක වකුටු වී සිටියේ කිසිදු උනන්දුවක් නැති අයුරිනි.අනෙක් අතට හෝම්ස්ගේ දක්නට ලැබුණේ අවධානයකින් සිටි ස්වභාවයකි.නාස්තුඩුවල ඉව රදවාගෙන ගොදුර වෙත කඩා පැනීමට සූදානම් දඩ බල්ලෙකු, හෝම්ස්ගේ පෙනුම දුටු මට සිහිවිය."
+  },
+    {
+    "id": "Pos_Fun_0012",
+    "input": "heta udhe 8 am valata zoom meeting ekak thiyanava DSA valata.",
+    "expected": "හෙට උදෙ 8 am වලට zoom meeting එකක් තියනව DSA වලට."
+  },
+    {
+    "id": "Pos_Fun_0013",
+    "input": "Ton 10 ta vadaa bara vaahana aethul kiriimen valakina lesa sadhan puvaruvak maargaya pasekin dhaknata laebuni.",
+    "expected": "Ton 10 ට වඩා බර වාහන ඇතුල් කිරීමෙන් වලකින ලෙස සදන් පුවරුවක් මාර්ගය පසෙකින් දක්නට ලැබුනි."
+  },
+    {
+    "id": "Pos_Fun_0014",
+    "input": "shri laqqkaava 2050 sQQvarDhitha ratak bavata path vee.",
+    "expected": "ශ්‍රි ලංකාව 2050 සංවර්ධිත රටක් බවට පත් වේවි."
+  },
+    {
+    "id": "Pos_Fun_0015",
+    "input": "mata oyaage tiktok facebook whatsapp instagram account balanna oona.",
+    "expected": "මට ඔයාගෙ tiktok facebook whatsapp ඉන්ස්ටග්‍රම් account බලන්න ඕන."
+  },
+    {
+    "id": "Pos_Fun_0016",
+    "input": "api heta trip ekak yanavaa oyaalath enavadha?  ",
+    "expected": "අපි හෙට trip එකක් යනවා ඔයාලත් එනවද?  "
+  },
+    {
+    "id": "Pos_Fun_0017",
+    "input": "adoo patta vaedak set unaa. supiri elakiri vaedak set eka pitin goda yanna.",
+    "expected": "අඩෝ පට්ට වැඩක් සෙට් උනා. සුපිරි එලකිරි වැඩක් සෙට් එක පිටින් ගොඩ යන්න."
+  },
+    {
+    "id": "Pos_Fun_0018",
+    "input": "karuNaakara bas raThayee dhum biimen valakinna",
+    "expected": "කරුණාකර බස් රථයේ දුම් බීමෙන් වලකින්න"
+  },
+    {
+    "id": "Pos_Fun_0019",
+    "input": "ATM eka gaava thibunu CCTV vaedakaran naeenee",
+    "expected": "ATM එක ගාව තිබුනු CCTV වැඩකරන් නෑනේ"
+  },
+    {
+    "id": "Pos_Fun_0020",
+    "input": "Adharaetakannathiyenneiidhiaappa",
+    "expected": "අදරැටකන්නතියෙන්නේඉදිආප්ප"
+  },
+    {
+    "id": "Pos_Fun_0021",
+    "input": "\"ee gaena mata hodhatama vishvaasayi.\" hooms kiiya. \"ethakota ara kudaya.......\" vulf mahathmayaa eeka obee gedhara kaamarayaka saeGevvee, eeka oba lavaama landanayata genvaa ganna. hodhayi mqq ahannee....",
+    "expected": "\"ඒ ගැන  මට හොදටම විශ්වාසයි.\"හෝම්ස් කීය. \"එතකොට අර කුඩය.......\"වුල්ෆ් මහත්මයා ඒක ඔබේ ගෙදර කාමරයක සැඟෙව්වේ,ඒක ඔබ ලවාම ලන්ඩනයට ගෙන්වා ගන්න.හොදයි මං අහන්නේ...."
+  },
+    {
+    "id": "Pos_Fun_0022",
+    "input": "ee system ekata log venna oona PIN ekayi OTP ekayi gahala.",
+    "expected": "ඒ system එකට log වෙන්න ඕන PIN එකයි OTP එකයි ගහල."
+  },
+    {
+    "id": "Pos_Fun_0023",
+    "input":  "ohuta maeethakadhii hamuvuNu mahathmayeku gaena ayiyaa maa samaga kiyaa thibunaa.hilarige namee mulakuru vuNu \\\"HB\\\" thamayi mee mahathmayaatath thibuNee. epamanak neveyi; penumenuth ohu magee saemiyaata bohoodhurata samaana bava ayiyaa kivuvaa. ee mahathmayaa thamayi mee hovaad baenistar mahathmayaa.ohuva landanayata genvaagena, raevulkaara hantar nomaGA yaeviimata haeki veevidha kiyaa mqq kalpanaa kaLaa",
+    "expected": "ඔහුට මෑතකදී හමුවුණු මහත්මයෙකු ගැන අයියා මා සමග කියා තිබුනා.හිලරිගෙ නමේ මුලකුරු වුණු \\\"HB\\\" තමයි මේ මහත්මයාටත් තිබුණේ. එපමනක් නෙවෙයි; පෙනුමෙනුත් ඔහු මගේ සැමියාට බොහෝදුරට සමාන බව අයියා කිවුවා. ඒ මහත්මයා තමයි මේ හොවාඩ් බැනිස්ටර් මහත්මයා.ඔහුව ලන්ඩනයට ගෙන්වාගෙන, රැවුල්කාර හන්ටර් නොමඟ යැවීමට හැකි වේවිද කියා මං කල්පනා කළා"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "input": "rivolvaraya apata  uvamanaa      vuNee naethi eka gaena maqq         santhooSha venava      votsan",
+    "expected": "රිවොල්වරය අපට  උවමනා      වුණේ නැති එක ගැන මං         සන්තෝෂ වෙනව      වොට්සන්"
+  },
+      {
+    "id": "Neg_Fun_0001",
+    "input": "hetaBMICHekeepothpradharshaneethiyanavadha?",
+    "expected": "හෙටBMICHඑකේපොත්ප්‍රදර්ශනේතියනවද?"
+  },
+    {
+    "id": "Neg_Fun_0002",
+    "input": "eyaage nama iqqgrisiyen Wasantha",
+    "expected": "එයාගෙ නම ඉංග්‍රිසියෙන් Wasantha "
+  },
+    {
+    "id": "Neg_Fun_0003",
+    "input": "adhamatchekaWestIndiansekka",
+    "expected": "අදmatchඑකWestIndiansඑක්ක"
+  },
+  {
+    "id": "Neg_Fun_0004",
+    "input": "Happy birthday mr Wickramasinghe lesa pavasamin ohu siya suba paethum ek kaleeya.anathuruwa ovun dhedhenaa sri lankavee anaagathaya saakachchaa kaleeya",
+    "expected": "Happy birthday mr Wicramasighe ලෙස පවසමින් ඔහු සිය සුබ පැතුම් එක් කලේය.අනතුරුව ඔවුන් දෙදෙනා Sri Lankaවේ අනාගතය සාකච්චා කලේය"
+  },
+  {
+    "id": "Neg_Fun_0005",
+    "input": "mataoyaageImoWhatsappFacebookaccountbalannaoona",
+    "expected": "මටඔයාගෙImoWhatsappFacebookaccountබලන්නඕන"
+  },
+  {
+    "id": "Neg_Fun_0006",
+    "input": "api arahe taxiyakin yamudha?",
+    "expected": "අපි අරහෙ taxiයකින් යමුද?"
+  },
+  {
+    "id": "Neg_Fun_0007",
+    "input":"\\\"aeya roomiyoo juliyat hi juliyatgee charithayath,haemlat hi ofiiliyaagee charithayath otheloohi desdemoonaa charithayath raGApaee bava ara minihaa mata kivvaa.gathavuNu heemantha sRUthuveedhi aeya hilari bravuniqq nam mahathmayeku samaGa vivaaha vuNu bava ohu kivvaa.ethakota obata kudayee dhakinna laebii thibuNu \\\"H.B\\\" akuru samaGa eeka kadhimata gaelapuNaa.maqq hithuvee methaena dhosthara kristiyan morisgee sidhDhiya vagee aparaaDhayak vath sidhuvelaadha kiyalayi.\\\"",
+    "expected": "\\\"ඇය රෝමියෝ ජුලියට් හි ජුලියට්ගේ චරිතයත්,හැම්ලට් හි ඔෆීලියාගේ චරිතයත් ඔතෙලෝහි ඩෙස්ඩෙමෝනා චරිතයත් රඟපෑ බව අර මිනිහා මට කිව්වා.ගතවුණු හේමන්ත සෘතුවේදි ඇය හිලරි බ්‍රවුනිං නම් මහත්මයෙකු සමඟ විවාහ වුණු බව ඔහු කිව්වා.එතකොට ඔබට කුඩයේ දකින්න ලැබී තිබුණු \"H.B\" අකුරු සමඟ ඒක කදිමට ගැලපුණා.මං හිතුවේ මෙතැන දොස්තර ක්‍රිස්ටියන් මොරිස්ගේ සිද්ධිය වගේ අපරාධයක් වත් සිදුවෙලාද කියලයි."
+  },
+  {
+    "id": "Neg_Fun_0008",
+    "input": "shri lankaavee \"Wasantham TV\" yanu rajayatadha kotas ayithiyak aethi TV channel ekkaki.",
+    "expected": "ශ්‍රි ලන්කාවේ \"Wasantham TV\" යනු රජයටද කොටස් අයිතියක් ඇති TV channel එක්කකි."
+  },
+  {
+    "id": "Neg_Fun_0010",
+    "input": "\"H.A piyadhaasa\" hodha goviyek",
+    "expected": "\"H.A පියදාස\" හොද ගොවියෙක්"
+  }
+  
+
+]
